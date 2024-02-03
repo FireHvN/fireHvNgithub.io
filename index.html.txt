@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+
+<html>
+
+  <head>
+
+    <title> Calculo de IMC Indice Masa Corporal </title>
+
+    <meta http-equiv = "Content-Type" content = "text / html; charset = utf-8">
+    <meta name = "description" content = "IMC, indice para saber y mejorar tu salud y estilo de vida">
+    <meta name = "keywords" content = "peso, masa, altura">
+
+    <link rel = "stylesheet" type = "text / css" href = "/ style.css">
+    <link rel = "icono de acceso directo" href = "/ favicon.ico">
+
+  </head>
+
+  <body>
+
+    <h1> IMC </h1>
+
+    <div id = "mainContent">
+
+      <p> Mi gato Lucky tiene muchas aventuras. Ayer <a href="mouse.html"> atrapó un ratón </a>, ¡y esta mañana atrapó dos! </p>
+
+      <p> COMO SE MIDE: </p>
+
+      <img src = "https://images.app.goo.gl/rBYew2puMQfRZj8JA" alt = "Lucky">
+
+    </div>
+
+    <div id = "barra lateral">
+
+      <h2> ¡Compra nuestros productos! </h2>
+
+      <p> Algunos de nuestros productos incluyen <span class = "product"> SuperWidgets </span>, <span class = "product"> MegaWidgets </span> y <span class = "product"> WonderWidgets </span> . </p>
+
+ <p> Aceptamos:</p>  
+     <ol> 
+
+        <li> Tarjetas de crédito</li>  
+
+        <li> Efectivo</li> 
+
+        <li> Cheques</li> 
+
+      </ol> 
+
+    </div>
+
+  </body>
+
+</html>
